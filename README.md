@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simm123
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning css, html and c#
+- 🌱 I’m currently learning css, html, c, c++ and c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
