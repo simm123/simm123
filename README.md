@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning css, html, c, c++ and c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- My history: https://github.com/simm123/simm123/blob/main/History.me
 
 <!---
 simm123/simm123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
