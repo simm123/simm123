@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - My history: https://github.com/simm123/simm123/blob/main/History.me
-- My lifestyle: https://github.com/simm123/simm123/blob/main/Lifestyle.me
+- My portfolio: https://github.com/simm123/simm123/blob/main/Lifestyle.me
 
 <!---
 simm123/simm123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
